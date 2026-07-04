@@ -1,0 +1,27 @@
+-- Total Sales by Region
+SELECT Region, SUM(Sales) AS Total_Sales
+FROM SalesData
+GROUP BY Region;
+
+-- Total Sales by Category
+SELECT Category, SUM(Sales) AS Total_Sales
+FROM SalesData
+GROUP BY Category;
+
+-- Top 5 Products by Sales
+SELECT Product_Name, SUM(Sales) AS Total_Sales
+FROM SalesData
+GROUP BY Product_Name
+ORDER BY Total_Sales DESC
+LIMIT 5;
+
+-- Monthly Sales Trend
+SELECT Month, SUM(Sales) AS Total_Sales
+FROM SalesData
+GROUP BY Month
+ORDER BY Month;
+
+-- Sales by Segment
+SELECT Segment, SUM(Sales) AS Total_Sales
+FROM SalesData
+GROUP BY Segment;
