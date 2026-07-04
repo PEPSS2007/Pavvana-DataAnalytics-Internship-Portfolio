@@ -116,6 +116,6 @@ By completing these projects, I strengthened my technical knowledge, analytical 
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Pavvana Sai Shree P E**
 
 ApexPlanet Data Analytics Intern
