@@ -208,7 +208,7 @@ ApexPlanet-Data-Analytics-Portfolio
 
 **GitHub:** https://github.com/PEPSS2007
 
-**LinkedIn:** *(Add your LinkedIn Profile URL)*
+**LinkedIn:** https://www.linkedin.com/in/pavvana-sai-shree-p-e-436356367/
 
 ---
 
